@@ -11,7 +11,18 @@ plot(cars)
 
 
 
+Great resources from Pubmed 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4636910/
 
+Great resources from others 
+1. Supply chain network for medical vs non-medical 
+https://www.linkedin.com/pulse/r-shiny-application-supply-chain-network-design-shrinidhee-shevade/ 
+2. Inventory tracking 
+https://www.hpnonline.com/infection-prevention/disposables-kits-drapes-ppe-instruments-textiles-etc/article/21130382/jump-technologies-offers-new-allocated-inventory-solution-free-of-charge-to-hospitals-for-tracking-covid19-supplies
+3. Jumptech 
+https://jumptech.com/covid19-1
+4. Rational use of PPE 
+https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf
 
 
 
