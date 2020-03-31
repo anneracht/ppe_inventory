@@ -6,16 +6,12 @@ shinyUI(fluidPage(
   headerPanel(span("Inventory Management System", style = "color:blue")),br(),
 
 
-  selectInput(inputId = "product_id", label = h4("Select Product:"),
-              c("Washington Berry Juice" = 1,
-                "Washington Mango Drink" = 2,
-                "Washington Strawberry Drink" = 3,
-                "Washington Cream Soda" = 4,
-                "Washington Diet Soda" = 5,
-                "Washington Cola" = 6,
-                "Washington Diet Cola"= 7,
-                "Washington Orange Juice" = 8,
-                "Washington Cranberry Juice" = 9)), br(),
+  selectInput(inputId = "PRODUCT_ID", label = h4("Select Product:"),
+              c("N95" = 1,
+                "surgical_mask" = 2,
+                "surgical_gown" = 3,
+                "face_shield" = 4,
+                "shoe_cover" = 5)), br(),
 
 
   titlePanel(h3(textOutput("product_text"))), br(),
